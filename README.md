@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @junjieeeeeceb
+- 👋 Hi, I’m @Lablab
+  
 - 👀 I’m interested in everything that can piqued my interest
 - 🌱 I’m currently learning computer programming
 - 💞️ I’m looking to collaborate on studying
